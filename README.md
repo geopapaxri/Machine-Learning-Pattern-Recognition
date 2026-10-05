@@ -11,8 +11,8 @@ Technical Documentation: Co-authored a comprehensive technical report detailing 
 
 Technologies Used
 
-Python
+1)Python
 
-NumPy & Matplotlib (Data manipulation and visualization)
+2)NumPy & Matplotlib (Data manipulation and visualization)
 
-Jupyter Notebook (Interactive development)
+3)Jupyter Notebook (Interactive development)
