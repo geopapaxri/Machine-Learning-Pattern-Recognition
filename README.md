@@ -10,6 +10,7 @@ Data Processing: Handled data loading, preprocessing, and label mapping (utilizi
 Technical Documentation: Co-authored a comprehensive technical report detailing the algorithmic architecture, mathematical foundations, and model evaluation metrics.
 
 Technologies Used
+
 Python
 
 NumPy & Matplotlib (Data manipulation and visualization)
